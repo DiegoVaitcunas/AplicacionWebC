@@ -1,0 +1,124 @@
+﻿@using ObligatorioP3WebApplication.Models
+@model CabañaModel
+
+<h4>Cabaña</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="BuscarCabanasPorDetails">
+            <div class="form-group">
+                <label asp-for="nombre" class="control-label"></label>
+                <input asp-for="nombre" class="form-control" />
+                <span asp-validation-for="nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Numero de habitacion
+                </th>
+                <th>
+                    Nombre
+                </th>
+                <th>
+                    Descripcion
+                </th>
+                <th>
+                    Capacidad
+                </th>
+                <th>
+                    Posee jacuzzi
+                </th>
+                <th>
+                    Nombre del tipo
+                </th>
+                <th>
+                    Costo por persona
+                </th>
+                <th>
+                    Habilitada para reservas
+                </th>
+                <th>
+                    Foto
+                </th>
+                <th>
+                    Relizar mantenimiento
+                </th>
+                <th>
+                    Ver mantenimientos
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.numeroHabitacion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.nombre.Valor)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.capacidad)
+                </td>
+                <td>
+                    @if (Model.poseeJacuzzi)
+                    {
+                        <p>Si</p>
+                    }
+                    else
+                    {
+                        <p>No</p>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.TipoCabaña.nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.TipoCabaña.costoXHuesped)
+                </td>
+                <td>
+                    @{
+                        if (Model.habilitada)
+                        {
+                            <p>Si</p>
+                        }
+                        else
+                        {
+                            <p>No</p>
+                        }
+                    }
+                </td>
+                <td>
+                    <img width="250px" class="img-thumbnail" src="~/Imagenes/Fotos/@Model.Fotos.Valor" />
+                </td>
+                <td>
+                    @Html.ActionLink("Realizar mantenimiento", "HacerMantenimiento", "Mantenimiento", new {id = Model.numeroHabitacion})
+                </td>
+                <td>
+                    @Html.ActionLink("Ver mantenimientos", "VerMantenimientos", "Mantenimiento", new {id = Model.numeroHabitacion})
+                </td>
+            </tr>
+        </tbody>
+    </table>
+}
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert-danger">
+        @ViewBag.Error
+    </div>
+}<br />
+<a asp-controller="Cabana" asp-action="BuscarCabanasPor">Volver</a>

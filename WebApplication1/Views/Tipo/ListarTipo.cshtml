@@ -1,0 +1,52 @@
+﻿@using Library.BusinessLogic.Entities;
+@model List<Tipo>
+@{
+    if (Model != null)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Nombre
+                    </th>
+                    <th>
+                        Descripcion
+                    </th>
+                    <th>
+                        Costo por huesped
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Tipo item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.descripcion)
+                        </td>
+                        <td>
+                            $ @Html.DisplayFor(modelItem => item.costoXHuesped)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Editar", "Edit", new { nombre=item.nombre }) |
+                            @Html.ActionLink("Ver detalles", "ObtenerPorNombreListar", new { nombre = item.nombre}) |
+                            @Html.ActionLink("Eliminar", "Delete", new { nombre=item.nombre})
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert-danger">
+            <p>@ViewBag.mensaje</p>
+        </div>
+    }
+}
+<br />
+<a asp-controller="Tipo" asp-action="Index">Volver</a>

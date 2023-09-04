@@ -1,0 +1,79 @@
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.deps.json
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.AssemblyReference.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfoInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfo.cs
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CopyComplete
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Obligatorio.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Obligatorio.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.deps.json
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.AssemblyReference.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfoInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfo.cs
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CoreCompileInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CopyComplete
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Obligatorio.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Obligatorio.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.deps.json
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CopyComplete
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Obligatorio.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Obligatorio.AccesData.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.deps.json
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.pdb
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.pdb
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.AssemblyReference.cache
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfoInputs.cache
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfo.cs
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CoreCompileInputs.cache
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CopyComplete
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Obligatorio.AccesData.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.pdb
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Obligatorio.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.deps.json
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.AccesData.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\bin\Debug\net7.0\Obligatorio.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.AssemblyReference.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfoInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.AssemblyInfo.cs
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.csproj.CopyComplete
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Obligatorio.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\Obligatorio.AccesData.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Obligatorio.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\DTOs.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\DTOs.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\DTOs.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\DTOs.pdb

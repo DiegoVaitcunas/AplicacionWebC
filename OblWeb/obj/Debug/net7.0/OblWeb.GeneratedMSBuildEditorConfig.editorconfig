@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OblWeb
+build_property.RootNamespace = OblWeb
+build_property.ProjectDir = G:\My Drive\Obligatorios\Semestre 3\P3\OblWeb\OblWeb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\My Drive\Obligatorios\Semestre 3\P3\OblWeb\OblWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Cabaña/BuscarCabanasHabilitadas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxCdXNjYXJDYWJhbmFzSGFiaWxpdGFkYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Cabaña/BuscarCabanasPor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxCdXNjYXJDYWJhbmFzUG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Cabaña/BuscarCabanasPorCantidad.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxCdXNjYXJDYWJhbmFzUG9yQ2FudGlkYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Cabaña/BuscarCabanasPorNombre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxCdXNjYXJDYWJhbmFzUG9yTm9tYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Cabaña/BuscarCabanasPorTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxCdXNjYXJDYWJhbmFzUG9yVGlwby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Cabaña/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Cabaña/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Cabaña/ListarCabanasPorTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYcOxYVxMaXN0YXJDYWJhbmFzUG9yVGlwby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Mantenimiento/HacerMantenimiento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xIYWNlck1hbnRlbmltaWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Mantenimiento/VerMantenimientos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xWZXJNYW50ZW5pbWllbnRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Tipo/AgregarTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xBZ3JlZ2FyVGlwby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Tipo/BuscarParaEliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xCdXNjYXJQYXJhRWxpbWluYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Tipo/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xlZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Tipo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Tipo/ListarTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xMaXN0YXJUaXBvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Tipo/ObtenerPorNombre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xPYnRlbmVyUG9yTm9tYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Tipo/ObtenerPorNombreListar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xPYnRlbmVyUG9yTm9tYnJlTGlzdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/My Drive/Obligatorios/Semestre 3/P3/OblWeb/OblWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nejrp8xliz

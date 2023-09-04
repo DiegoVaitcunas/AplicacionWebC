@@ -1,0 +1,12 @@
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Library.deps.json
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Library.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Library.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Library.csproj.AssemblyReference.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Library.AssemblyInfo.cs
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Library.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\refint\Library.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Library.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\ref\Library.dll

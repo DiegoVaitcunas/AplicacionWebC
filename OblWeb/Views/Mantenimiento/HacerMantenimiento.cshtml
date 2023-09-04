@@ -1,0 +1,160 @@
+﻿@using ObligatorioP3WebApplication.Models
+@model CabañaModel
+
+@if (Model != null)
+{
+    <h4>Mantenimiento</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form action="" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <input name="Habitacion" class="form-control" value="@Model.numeroHabitacion" hidden />
+                    <span validation-for="Habitacion" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="FechaMantenimiento" class="control-label">Fecha del mantenimiento</label>
+                    <input type="date" id="FechaMantenimiento" name="FechaMantenimiento.Valor" class="form-control" />
+                    <span validation-for="FechaMantenimiento" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="Descripcion" class="control-label"> Descripcion </label>
+                    <input type="text" id="Descripcion" name="Descripcion" class="form-control" />
+                    <span validation-for="Descripcion" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="Costo" class="control-label"> Costo </label>
+                    <input type="number" id="Costo" name="Costo" class="form-control" />
+                    <span validation-for="Costo" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="NombreTrabajador" class="control-label">Nombre del trabajador</label>
+                    <input type="text" id="NombreTrabajador" name="NombreTrabajador" class="form-control" />
+                    <span validation-for="NombreTrabajador" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Numero de habitacion
+                </th>
+                <th>
+                    Nombre
+                </th>
+                <th>
+                    Descripcion
+                </th>
+                <th>
+                    Capacidad
+                </th>
+                <th>
+                    Posee jacuzzi
+                </th>
+                <th>
+                    Nombre del tipo
+                </th>
+                <th>
+                    Costo por persona
+                </th>
+                <th>
+                    Habilitada para reservas
+                </th>
+                <th>
+                    Ver mantenimientos
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.numeroHabitacion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.descripcion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.capacidad)
+                </td>
+                <td>
+                    @if (Model.poseeJacuzzi)
+                    {
+                        <p>Si</p>
+                    }
+                    else
+                    {
+                        <p>No</p>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.TipoCabaña.nombre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => Model.TipoCabaña.costoXHuesped)
+                </td>
+                <td>
+                    @{
+                        if (Model.habilitada)
+                        {
+                            <p>Si</p>
+                        }
+                        else
+                        {
+                            <p>No</p>
+                        }
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Ver mantenimientos", "VerMantenimientos", "Mantenimiento", new {id = Model.numeroHabitacion})
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert-danger">
+            @ViewBag.Error
+        </div>
+    }
+    @section Scripts {
+    @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }
+}
+else if (Model is null && ViewBag.Success is null && ViewBag.Error is null)
+{
+    <div class="alert-danger">
+        <h5>No se encontro la cabaña</h5>
+    </div>
+    <br />
+}
+else if (ViewBag.Success != null)
+{
+    <div class="alert-success">
+        <h5>@ViewBag.Success</h5>
+    </div>
+    <br />
+}
+else if (ViewBag.Error != null)
+{
+    <div class="alert-danger">
+        <h5>@ViewBag.Error</h5>
+    </div>
+    <br />
+}<div>
+    <a asp-controller="Cabana" asp-action="BuscarCabanasPor">Volver</a>
+</div>

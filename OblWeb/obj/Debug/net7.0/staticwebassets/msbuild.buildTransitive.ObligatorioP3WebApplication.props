@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ObligatorioP3WebApplication.props" />
+</Project>

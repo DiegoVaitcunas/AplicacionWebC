@@ -1,0 +1,45 @@
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\DTOs.deps.json
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\DTOs.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\DTOs.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\Obligatorio.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\Obligatorio.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.csproj.AssemblyReference.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfoInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfo.cs
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.csproj.CopyComplete
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\refint\DTOs.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\ref\DTOs.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\DTOs.deps.json
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\DTOs.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\DTOs.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\Obligatorio.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\Obligatorio.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.csproj.CopyComplete
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\refint\DTOs.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\ref\DTOs.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\DTOs.deps.json
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\DTOs.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\DTOs.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\Obligatorio.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\bin\Debug\net7.0\Obligatorio.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.csproj.AssemblyReference.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfoInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfo.cs
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.csproj.CoreCompileInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.csproj.CopyComplete
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\refint\DTOs.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\DTOs.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\DTOs\obj\Debug\net7.0\ref\DTOs.dll

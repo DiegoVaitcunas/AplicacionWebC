@@ -1,0 +1,85 @@
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.deps.json
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CopyComplete
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\refint\Obligatorio.LogicaDeAplicacion.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\ref\Obligatorio.LogicaDeAplicacion.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.deps.json
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.AssemblyReference.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfoInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfo.cs
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CoreCompileInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CopyComplete
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\refint\Obligatorio.LogicaDeAplicacion.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\ref\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.deps.json
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.pdb
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.pdb
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.AssemblyReference.cache
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfoInputs.cache
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfo.cs
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CopyComplete
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\refint\Obligatorio.LogicaDeAplicacion.dll
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+C:\Users\alvez\OneDrive\Escritorio\EditadoConGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\ref\Obligatorio.LogicaDeAplicacion.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.deps.json
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.AssemblyReference.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfoInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfo.cs
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CopyComplete
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\refint\Obligatorio.LogicaDeAplicacion.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\NuevoGuille\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\ref\Obligatorio.LogicaDeAplicacion.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.deps.json
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\DTOs.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\bin\Debug\net7.0\Obligatorio.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.AssemblyReference.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfoInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.AssemblyInfo.cs
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.csproj.CopyComplete
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\refint\Obligatorio.LogicaDeAplicacion.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\Obligatorio.LogicaDeAplicacion.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Obligatorio.BussinesLogic\obj\Debug\net7.0\ref\Obligatorio.LogicaDeAplicacion.dll

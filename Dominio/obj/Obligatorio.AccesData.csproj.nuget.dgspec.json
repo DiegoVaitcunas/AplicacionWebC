@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Dominio\\Obligatorio.AccesData.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Dominio\\Obligatorio.AccesData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Dominio\\Obligatorio.AccesData.csproj",
+        "projectName": "Obligatorio.AccesData",
+        "projectPath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Dominio\\Obligatorio.AccesData.csproj",
+        "packagesPath": "C:\\Users\\alvez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alvez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\DTOs\\DTOs.csproj"
+              },
+              "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Library.BusinessLogic\\Obligatorio.csproj": {
+                "projectPath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Library.BusinessLogic\\Obligatorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\DTOs\\DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\DTOs\\DTOs.csproj",
+        "projectName": "DTOs",
+        "projectPath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\alvez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alvez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Library.BusinessLogic\\Obligatorio.csproj": {
+                "projectPath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Library.BusinessLogic\\Obligatorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Library.BusinessLogic\\Obligatorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Library.BusinessLogic\\Obligatorio.csproj",
+        "projectName": "Obligatorio",
+        "projectPath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Library.BusinessLogic\\Obligatorio.csproj",
+        "packagesPath": "C:\\Users\\alvez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvez\\OneDrive\\Escritorio\\Mis Proyectos\\Proyecto en C#, conexion a base de datos, aplicacion web\\BackEnd\\Library.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alvez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

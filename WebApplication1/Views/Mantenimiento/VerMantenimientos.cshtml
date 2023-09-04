@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Library.BusinessLogic.Entities.Mantenimiento>
+
+@if (Model == null)
+{
+	<div class="row">
+		<div class="col-md-4">
+			<form action="VerMantenimientos" method="post">
+				<div class="form-group">
+					<input type="number" name="id" id="id" value="@ViewBag.id" hidden class="form-control" />
+				</div>
+				<div class="form-group">
+					<label for="t1" class="control-label">Fecha inicial</label>
+					<input type="date" name="t1" id="t1" class="form-control">
+					<span validation-for="t1" class="text-danger"></span>
+				</div>
+				<br />
+				<div class="form-group">
+					<label for="t2" class="control-label">Fecha final</label>
+					<input type="date" name="t2" id="t2" class="form-control">
+					<span validation-for="t2" class="text-danger"></span>
+				</div>
+				<br />
+				<div class="form-group">
+					<input type="submit" value="Buscar" class="btn btn-primary" />
+				</div>
+			</form>
+		</div>
+	</div>
+}
+@if (Model != null && Model.Count() > 0)
+{
+	<table class="table">
+		<thead>
+			<tr>
+				<th>
+					@Html.DisplayNameFor(model => model.mantenimientoId)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.Habitacion)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.FechaMantenimiento)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.Descripcion)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.Costo)
+				</th>
+				<th>
+					@Html.DisplayNameFor(model => model.NombreTrabajador)
+				</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td>
+						@Html.DisplayFor(modelItem => item.mantenimientoId)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Habitacion)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.FechaMantenimiento)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Descripcion)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Costo)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.NombreTrabajador)
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+	<br />
+}
+@if (ViewBag.Error != null)
+{
+	<div class="alert-danger">
+		<p>@ViewBag.Error</p>
+	</div>
+	<br />
+}
+<a asp-controller="Cabana" asp-action="BuscarCabanasPor">Volver</a>

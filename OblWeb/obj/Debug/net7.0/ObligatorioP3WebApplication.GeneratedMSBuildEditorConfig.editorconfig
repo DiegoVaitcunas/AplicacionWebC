@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ObligatorioP3WebApplication
+build_property.RootNamespace = ObligatorioP3WebApplication
+build_property.ProjectDir = C:\Users\alvez\OneDrive\Escritorio\Mis Proyectos\Proyecto en C#, conexion a base de datos, aplicacion web\FrontEnd\OblWeb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\alvez\OneDrive\Escritorio\Mis Proyectos\Proyecto en C#, conexion a base de datos, aplicacion web\FrontEnd\OblWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/BuscarCabanasHabilitadas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXEJ1c2NhckNhYmFuYXNIYWJpbGl0YWRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/BuscarCabanasPor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXEJ1c2NhckNhYmFuYXNQb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/BuscarCabanasPorCantidad.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXEJ1c2NhckNhYmFuYXNQb3JDYW50aWRhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/BuscarCabanasPorNombre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXEJ1c2NhckNhYmFuYXNQb3JOb21icmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/BuscarCabanasPorTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXEJ1c2NhckNhYmFuYXNQb3JUaXBvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/BuscarCabanasPorTipoYMonto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXEJ1c2NhckNhYmFuYXNQb3JUaXBvWU1vbnRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/BuscarCabanasPorTipoYMontoListar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXEJ1c2NhckNhYmFuYXNQb3JUaXBvWU1vbnRvTGlzdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Cabana/ListarCabanasPorTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5hXExpc3RhckNhYmFuYXNQb3JUaXBvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Mantenimiento/HacerMantenimiento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xIYWNlck1hbnRlbmltaWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Mantenimiento/VerMantenimientos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xWZXJNYW50ZW5pbWllbnRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Mantenimiento/VerMantenimientosDeCabañasEntreCap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xWZXJNYW50ZW5pbWllbnRvc0RlQ2FiYcOxYXNFbnRyZUNhcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Mantenimiento/VerMantenimientosDeCabañasEntreCapListar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xWZXJNYW50ZW5pbWllbnRvc0RlQ2FiYcOxYXNFbnRyZUNhcExpc3Rhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Tipo/AgregarTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xBZ3JlZ2FyVGlwby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Tipo/BuscarParaEliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xCdXNjYXJQYXJhRWxpbWluYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Tipo/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xlZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Tipo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Tipo/ListarTipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xMaXN0YXJUaXBvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Tipo/ObtenerPorNombre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xPYnRlbmVyUG9yTm9tYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Tipo/ObtenerPorNombreListar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1xPYnRlbmVyUG9yTm9tYnJlTGlzdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alvez/OneDrive/Escritorio/Mis Proyectos/Proyecto en C\#\, conexion a base de datos\, aplicacion web/FrontEnd/OblWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-keiiu8v30u

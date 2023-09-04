@@ -1,0 +1,140 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @using Library.BusinessLogic.Entities;
+    @model List<Cabaña>;
+
+}
+<h1 class="card-title">Tareas "Tipo"</h1>
+<ul class="list-group">
+
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Cabana" asp-action="BuscarCabanasPorNombre">Buscar cabaña por nombre</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Cabana" asp-action="BuscarCabanasPorTipo">Buscar cabaña por Tipo</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Cabana" asp-action="BuscarCabanasPorCantidad">Buscar cabaña por cantidad de huespedes</a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Cabana" asp-action="BuscarCabanasHabilitadas">Buscar cabañas habilitadas</a>
+    </li>
+</ul>
+@{
+    @if (ViewBag.Error == null)
+    {
+        <h2>Todas las cabañas:</h2>
+
+        @if (Model != null)
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            Numero de habitacion
+                        </th>
+                        <th>
+                            Nombre
+                        </th>
+                        <th>
+                            Descripcion
+                        </th>
+                        <th>
+                            Capacidad
+                        </th>
+                        <th>
+                            Posee jacuzzi
+                        </th>
+                        <th>
+                            Nombre del tipo
+                        </th>
+                        <th>
+                            Costo por persona
+                        </th>
+                        <th>
+                            Habilitada para reservas
+                        </th>
+                        <th>
+                            Foto
+                        </th>
+                        <th>
+                            Relizar mantenimiento
+                        </th>
+                        <th>
+                            Ver mantenimientos
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Cabaña item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.numeroHabitacion)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.nombre.Valor)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.descripcion)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.capacidad)
+                            </td>
+                            <td>
+                                @if (item.poseeJacuzzi)
+                                {
+                                    <p>Si</p>
+                                }
+                                else
+                                {
+                                    <p>No</p>
+                                }
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TipoCabaña.nombre)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TipoCabaña.costoXHuesped)
+                            </td>
+                            <td>
+                                @{
+                                    if (item.habilitada)
+                                    {
+                                        <p>Si</p>
+                                    }
+                                    else
+                                    {
+                                        <p>No</p>
+                                    }
+                                }
+                            </td>
+                            <td>
+                                <img width="250px" class="img-thumbnail" src="~/Imagenes/Fotos/@item.Fotos.Valor" />
+                            </td>
+                            <td>
+                                @Html.ActionLink("Realizar mantenimiento", "HacerMantenimiento", "Mantenimiento", new {id = item.numeroHabitacion})
+                            </td>
+                            <td>
+                                @Html.ActionLink("Ver mantenimientos", "VerMantenimientos", "Mantenimiento", new {id = item.numeroHabitacion})
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    }
+    else
+    {
+        <div class="alert-danger">
+            @ViewBag.Error
+        </div>
+    }
+}
+
+<a asp-controller="Cabana" asp-action="Index">Volver</a>

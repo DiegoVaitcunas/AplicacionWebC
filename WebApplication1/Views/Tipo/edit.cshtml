@@ -1,0 +1,33 @@
+﻿@model Library.BusinessLogic.Entities.Tipo
+
+<h4>Tipo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ModificarTipo">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type ="hidden" asp-for="nombre" class="form-control" value=@ViewBag.nombre />
+            <div class="form-group">
+                <label asp-for="descripcion" class="control-label"></label>
+                <input asp-for="descripcion" class="form-control" />
+                <span asp-validation-for="descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="costoXHuesped" class="control-label"></label>
+                <input asp-for="costoXHuesped" class="form-control" />
+                <span asp-validation-for="costoXHuesped" class="text-danger"></span>
+            </div>
+            <div>
+                <input type="submit" value="Editar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Tipo" asp-action="ObtenerPorNombre">Volver</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

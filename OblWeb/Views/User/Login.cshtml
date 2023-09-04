@@ -1,0 +1,50 @@
+﻿@using ObligatorioP3WebApplication.Models
+@model UsuarioModel
+
+<h4>Usuario</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+         <form asp-action="Login">
+        <!--form asp-controller="User" asp-action="Login" method="post"-->
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label">Email: </label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <!--<div class="form-group">
+                <label asp-for="NombreCompleto" class="control-label"></label>
+                <input asp-for="NombreCompleto" class="form-control" />
+                <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+            </div>-->
+            <input asp-for="NombreCompleto" hidden value="generic" class="form-control" />
+            <div class="form-group">
+                <label asp-for="Contrasena.Valor" class="control-label">Contraseña: </label>
+                <input type="password" asp-for="Contrasena.Valor" class="form-control" />
+                <span asp-validation-for="Contrasena.Valor" class="text-danger"></span>
+            </div> <br />
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@{
+    @if (ViewBag.mensaje != null)
+    {
+        <div class="alert-danger">
+            <p>@ViewBag.mensaje</p>
+        </div>
+    }
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+<br />
+<a asp-controller="Home" asp-action="Index">Volver</a>

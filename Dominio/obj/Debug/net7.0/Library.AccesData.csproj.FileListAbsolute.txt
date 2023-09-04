@@ -1,0 +1,135 @@
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.AccesData.deps.json
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.AccesData.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.BusinessLogic.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.BusinessLogic.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.AssemblyReference.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfoInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfo.cs
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CoreCompileInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CopyComplete
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\refint\Library.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\ref\Library.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.AccesData.deps.json
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.AccesData.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.BusinessLogic.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.BusinessLogic.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CopyComplete
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\refint\Library.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\ref\Library.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.AccesData.deps.json
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.AccesData.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.BusinessLogic.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\bin\Debug\net7.0\Library.BusinessLogic.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.AssemblyReference.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfoInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfo.cs
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CopyComplete
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\refint\Library.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\Library.AccesData.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3(IgnacioPataro288045-DiegoVaitcunas)\Dominio\Dominio\obj\Debug\net7.0\ref\Library.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.deps.json
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CopyComplete
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Library.AccesData.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Library.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.deps.json
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.AssemblyReference.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfoInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfo.cs
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CoreCompileInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CopyComplete
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Library.AccesData.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Library.AccesData.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.deps.json
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Library.AccesData.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Library.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.deps.json
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.AssemblyReference.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfoInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfo.cs
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CopyComplete
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Library.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Library.AccesData.dll
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.deps.json
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.dll
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.pdb
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.dll
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.pdb
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.AssemblyReference.cache
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfoInputs.cache
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfo.cs
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CoreCompileInputs.cache
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CopyComplete
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.dll
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Library.AccesData.dll
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.pdb
+C:\Users\alvez\Downloads\ObligatorioP3-20230426T141003Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Library.AccesData.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.deps.json
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.AccesData.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.BusinessLogic.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.AssemblyInfo.cs
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.csproj.CopyComplete
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\refint\Library.AccesData.dll
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\Library.AccesData.pdb
+C:\Users\alumnoFI\Downloads\ObligatorioP3-20230508T110551Z-001\ObligatorioP3\Dominio\obj\Debug\net7.0\ref\Library.AccesData.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Dominio\bin\Debug\net7.0\Library.pdb

@@ -1,0 +1,41 @@
+﻿@model List<Library.BusinessLogic.Entities.Tipo>;
+
+<h4>Tipo</h4>
+<hr />
+@if (ViewBag.Error == null)
+{
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="ListarCabanasPorTipo">
+                <div class="form-group">
+                    <label for="nombreT" class="control-label"></label>
+                    <select name="nombreT" id="nombreT" class="form-control">
+                        <option value="" disabled selected>Seleccionar el tipo de cabaña</option>
+                        @foreach (Library.BusinessLogic.Entities.Tipo t in Model)
+                        {
+                            <option value="@t.nombre"> @t.nombre </option>
+                        }
+                    </select>
+                </div><br />
+                <div class="form-group">
+                    <input type="submit" value="Buscar" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <div class="alert-danger">
+        @ViewBag.Error
+    </div>
+}
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+<br />
+<a asp-controller="Cabana" asp-action="BuscarCabanasPor">Volver</a>

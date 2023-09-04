@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.CabañasController.Get">
+            <Summary>
+            Obtener cabañas
+             </Summary>
+             <returns>Listado de todas las cabañas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañasController.GetPorTipo(System.String)">
+            <Summary>
+            Obtener cabañas por tipo
+             </Summary>
+             <param name="tipo">Nombre del tipo a buscar</param>
+             <returns>Listado de cabañas con ese tipo</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañasController.GetPorNombte(System.String)">
+            <Summary>
+            Obtener cabañas por nombre
+             </Summary>
+             <param name="nombre">Nombre de la cabaña a buscar</param>
+             <returns>Listado de cabañas con ese nombre</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañasController.GetPorCapacidad(System.Int32)">
+            <Summary>
+            Obtener cabañas por capacidad
+             </Summary>
+             <param name="capacidad">Capacidad de la cabaña</param>
+             <returns>Listado de cabañas con esa capacidad o menor</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañasController.GetHabilitadas">
+            <Summary>
+            Obtener cabañas habilitadas
+             </Summary>
+             <returns>Listado de cabañas habilitadas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañasController.GetPorMontoyTipo(System.String,System.Int32)">
+            <Summary>
+            Obtener cabañas por monto y tipo
+             </Summary>
+             <param name="nameTipo">Nombre del tipo</param>
+             <param name="monto">Monto</param>
+             <returns>Listado de cabañas con ese tipo por ese monto que esten habilitadas y tengas Jacuzzi</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañasController.GetPorId(System.Int32)">
+            <Summary>
+            Obtener cabañas por id
+             </Summary>
+             <param name="id">Id de la cabaña a buscar</param>
+             <returns>Listado de cabañas con ese id</returns>
+        </member>
+        <member name="M:WebApi.Controllers.CabañasController.CrearCabaña(DTOs.CabañaDTO)">
+            <Summary>
+            Registrar cabañas
+             </Summary>
+             <param name="c">Datos de la cabaña a crear</param>
+             <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.LoginsController.Login(DTOs.UsuarioDTO)">
+            <Summary>
+            Loguearse
+             </Summary>
+             <param name="usuarioActual">Datos del usuario a loguearse</param>
+             <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.MantenimientosController.obtenerMantenimientoEntreFechas(System.Int32,System.DateTime,System.DateTime)">
+            <Summary>
+            obtener mantenimientos de una cabaña entre dos fechas
+             </Summary>
+             <param name="f1">Fecha inicial</param>
+             <param name="f2">Fecha final</param>
+             <param name="id">id de la cabaña a buscar</param>
+             <returns>Listado de mantenimientos para cabañas con ese id y entre esas fechas</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MantenimientosController.ObtenerMantenimientoEntreCapacidades(System.Int32,System.Int32)">
+            <Summary>
+            obtener costo total de los mantenimientos hechos por un trabajador
+             </Summary>
+             <param name="cap1">Capacidad menor</param>
+             <param name="cap2">Capacidad mayor</param>
+             <returns>Listado de mantenimientos hechos por un trabajador</returns>
+        </member>
+        <member name="M:WebApi.Controllers.MantenimientosController.CrearMantenimiento(DTOs.MantenimientoDTO)">
+            <Summary>
+            Alta del mantenimiento
+             </Summary>
+             <param name="m">Datos del mantenimiento a crear</param>
+             <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.TiposController.CrearTipo(DTOs.TipoDTO)">
+            <Summary>
+            Alta del tipo
+             </Summary>
+             <param name="tipo">Datos del tipo a crear</param>
+             <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.TiposController.BorrarTipo(System.String)">
+            <Summary>
+            Eliminar tipo
+             </Summary>
+             <param name="nombre">Nombre del tipo a eliminar</param>
+             <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.TiposController.EditarTipo(Library.BusinessLogic.Entities.Tipo)">
+            <Summary>
+            Modificar Tipo
+             </Summary>
+             <param name="t">Datos a cambiar</param>
+             <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.TiposController.Get">
+            <Summary>
+            Obtener tipos en la base de datos
+             </Summary>
+             <returns>Listado de todos los tipos de cabaña</returns>
+        </member>
+        <member name="M:WebApi.Controllers.TiposController.GetByName(System.String)">
+            <Summary>
+            Obtener Tipos por nombre en la base de datos
+             </Summary>
+             <param name="nombre">Nombre del Tipo a buscar</param>
+             <returns>Listado de tipos de cabañas con ese nombre</returns>
+        </member>
+    </members>
+</doc>

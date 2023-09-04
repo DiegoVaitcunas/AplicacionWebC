@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="InterfacesCasosDeUso\desktop.ini" />
+    <None Remove="InterfacesCasosDeUso\IUsuarioLogeadoUC\ICabañasUC\desktop.ini" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="InterfacesCasosDeUso\IUsuarioLogeadoUC\IMantenimientosUC\desktop.ini" />
+    <None Include="InterfacesCasosDeUso\IUsuarioLogeadoUC\ITiposUC\desktop.ini" />
+    <None Include="InterfacesCasosDeUso\IUsuarioLogeadoUC\ITiposU\desktop.ini" />
+    <None Include="InterfacesCasosDeUso\IUsuarioLogeadoUC\IUsuarioUC\desktop.ini" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DTOs\DTOs.csproj" />
+    <ProjectReference Include="..\Library.BusinessLogic\Obligatorio.csproj" />
+  </ItemGroup>
+
+</Project>

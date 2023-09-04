@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Obligatorio.BussinesLogic\\Obligatorio.BussinesLogic.csproj": {}
+  },
+  "projects": {
+    "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\DTOs\\DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\DTOs\\DTOs.csproj",
+        "projectName": "DTOs",
+        "projectPath": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\alvez\\.nuget\\packages\\",
+        "outputPath": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alvez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Library.BusinessLogic\\Obligatorio.csproj": {
+                "projectPath": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Library.BusinessLogic\\Obligatorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Library.BusinessLogic\\Obligatorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Library.BusinessLogic\\Obligatorio.csproj",
+        "projectName": "Obligatorio",
+        "projectPath": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Library.BusinessLogic\\Obligatorio.csproj",
+        "packagesPath": "C:\\Users\\alvez\\.nuget\\packages\\",
+        "outputPath": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Library.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alvez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Obligatorio.BussinesLogic\\Obligatorio.BussinesLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Obligatorio.BussinesLogic\\Obligatorio.BussinesLogic.csproj",
+        "projectName": "Obligatorio.BussinesLogic",
+        "projectPath": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Obligatorio.BussinesLogic\\Obligatorio.BussinesLogic.csproj",
+        "packagesPath": "C:\\Users\\alvez\\.nuget\\packages\\",
+        "outputPath": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Obligatorio.BussinesLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alvez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\DTOs\\DTOs.csproj": {
+                "projectPath": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\DTOs\\DTOs.csproj"
+              },
+              "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Library.BusinessLogic\\Obligatorio.csproj": {
+                "projectPath": "G:\\.shortcut-targets-by-id\\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\\Obligatorios\\Semestre 3\\P3\\ObligatorioP3\\Library.BusinessLogic\\Obligatorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

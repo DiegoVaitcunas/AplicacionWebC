@@ -1,0 +1,36 @@
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Obligatorio.deps.json
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Obligatorio.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Obligatorio.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.csproj.AssemblyReference.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.AssemblyInfoInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.AssemblyInfo.cs
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\refint\Obligatorio.dll
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.pdb
+G:\Mi unidad\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\ref\Obligatorio.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Obligatorio.deps.json
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Obligatorio.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Obligatorio.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.csproj.AssemblyReference.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.AssemblyInfoInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.AssemblyInfo.cs
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.csproj.CoreCompileInputs.cache
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\refint\Obligatorio.dll
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.pdb
+G:\My Drive\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\ref\Obligatorio.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Obligatorio.deps.json
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Obligatorio.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\bin\Debug\net7.0\Obligatorio.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\refint\Obligatorio.dll
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\Obligatorio.pdb
+G:\.shortcut-targets-by-id\1UMAkyt4Q55uypSr5UXW_6zFrvgvxfOHT\Obligatorios\Semestre 3\P3\ObligatorioP3\Library.BusinessLogic\obj\Debug\net7.0\ref\Obligatorio.dll

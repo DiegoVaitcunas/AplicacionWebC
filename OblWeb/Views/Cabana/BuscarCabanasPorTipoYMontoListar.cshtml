@@ -1,0 +1,108 @@
+﻿@model CabañaModel[]
+
+@if (Model != null && Model.Count() > 0)
+{
+	<table class="table">
+		<thead>
+			<tr>
+				<th>
+					Numero de habitacion
+				</th>
+				<th>
+					Nombre
+				</th>
+				<th>
+					Descripcion
+				</th>
+				<th>
+					Capacidad
+				</th>
+				<th>
+					Posee jacuzzi
+				</th>
+				<th>
+					Nombre del tipo
+				</th>
+				<th>
+					Costo por persona
+				</th>
+				<th>
+					Habilitada para reservas
+				</th>
+				<th>
+					Foto
+				</th>
+				<th>
+					Relizar mantenimiento
+				</th>
+				<th>
+					Ver mantenimientos
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (CabañaModel item in Model)
+			{
+				<tr>
+					<td>
+						@Html.DisplayFor(modelItem => item.numeroHabitacion)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.nombre.Valor)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.descripcion)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.capacidad)
+					</td>
+					<td>
+						@if (item.poseeJacuzzi)
+						{
+							<p>Si</p>
+						}
+						else
+						{
+							<p>No</p>
+						}
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.TipoCabaña.nombre)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.TipoCabaña.costoXHuesped)
+					</td>
+					<td>
+						@{
+							if (item.habilitada)
+							{
+								<p>Si</p>
+							}
+							else
+							{
+								<p>No</p>
+							}
+						}
+					</td>
+					<td>
+						<img width="250px" class="img-thumbnail" src="~/Imagenes/Fotos/@item.Fotos.Valor" />
+					</td>
+					<td>
+						@Html.ActionLink("Realizar mantenimiento", "HacerMantenimiento", "Mantenimiento", new {id = item.numeroHabitacion})
+					</td>
+					<td>
+						@Html.ActionLink("Ver mantenimientos", "VerMantenimientos", "Mantenimiento", new {id = item.numeroHabitacion})
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+else
+{
+	<div class="alert-danger">
+		<h4> No se encontraron cabañas con ese tipo por ese monto Habilitadas y con Jacuzzi</h4>
+	</div>
+}
+
+<a asp-controller="Cabana" asp-action="BuscarCabanasPorTipoYMonto">Volver</a>

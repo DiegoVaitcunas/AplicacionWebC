@@ -1,0 +1,41 @@
+﻿@using ObligatorioP3WebApplication.Models
+@model TipoModel
+
+<h4>Tipo</h4>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ObtenerPorNombreListar">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nombre" class="control-label"></label>
+                <input asp-for="nombre" class="form-control" requiered />
+                <span asp-validation-for="nombre" class="text-danger"></span>
+            </div>
+            <br />
+            <div>
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+            <br />
+            <div>
+                <input type="submit" value="Eliminar" formaction="BuscarParaEliminar" class="btn btn-danger">
+            </div>
+            <br />
+            <div>
+                <input type="submit" value="Editar" formaction="edit" class="btn btn-warning">
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a asp-action="Index">Volver</a>
+</div>
+
+@{
+    if (ViewBag.mensaje != null)
+    {
+        <div class="alert-warning">
+            @ViewBag.mensaje
+        </div>
+    }
+} 

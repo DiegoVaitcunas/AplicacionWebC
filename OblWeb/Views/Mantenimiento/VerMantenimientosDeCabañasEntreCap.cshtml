@@ -1,0 +1,38 @@
+﻿@model ObligatorioP3WebApplication.Models.MantenimientoModel
+
+@{
+    ViewData["Title"] = "VerMantenimientosDeCabañasEntreCap";
+}
+
+<h1>VerMantenimientosDeCabañasEntreCap</h1>
+
+<h4>MantenimientoModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="VerMantenimientosDeCabañasEntreCapListar" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label for="cap1" ="control-label"></label>
+                <input type="number" name="cap1" for="cap1" class="form-control" />
+                <span validation-for="cap1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label for="cap2" class="control-label"></label>
+                <input type="number" name="cap2" for="cap2" class="form-control" />
+                <span avalidation-for="cap2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,96 @@
+﻿@using ObligatorioP3WebApplication.Models
+@model TipoModel[];
+
+
+<h4>Cabaña</h4>
+<hr />
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Create" enctype="multipart/form-data">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+			<div class="form-group">
+				<label for="nombreTipo" class="Select-label">Tipo de cabaña</label>
+				<select name="nombreTipo" id="nombreTipo" class="form-select">
+					@if (Model != null && Model.Count() > 0)
+					{
+						<option value="" disabled selected>Seleccionar el tipo de cabaña</option>
+						@foreach (TipoModel t in Model)
+						{
+							<option value="@t.nombre">@t.nombre</option>
+						}
+					}
+				</select>
+				<span validation-for="nombreTipo" class="text-danger"></span>
+			</div><br />
+
+			<div class="form-group">
+				<label for="nombre" class="control-label">Nombre</label>
+				<input type="text" id="nombre" name="nombre.Valor" class="form-control" />
+				<span validation-for="nombre" class="text-danger"></span>
+			</div><br />
+
+			<div class="form-group">
+				<label for="descripcion" class="control-label">Descripcion</label>
+				<input type="text" id="descripcion" name="descripcion" class="form-control" />
+				<span validation-for="descripcion" class="text-danger"></span>
+			</div><br />
+
+			<div class="form-group form-check">
+				<label class="form-check-label">
+					<input type="checkbox" id="poseeJacuzzi" class="form-check-input" name="poseeJacuzzi" value="true" /> Posee jacuzzi
+				</label>
+			</div><br />
+
+			<div class="form-group form-check">
+				<label class="form-check-label">
+					<input type="checkbox" id="habilitada" class="form-check-input" name="habilitada" value="true" /> La cabaña esta habiltiada?
+				</label>
+			</div><br />
+
+			<div class="form-group">
+				<label for="capacidad" class="control-label">Capacidad</label>
+				<input type="number" id="capacidad" name="capacidad" class="form-control" />
+				<span validation-for="capacidad" class="text-danger"></span>
+			</div><br />
+
+			<div class="form-group">
+				<label for="image" class="control-label"></label>
+				<input type="file" accept="image/png, image/gif, image/jpeg" name="image" class="form-control" />
+				<span asp-validation="image" class="text-danger"></span>
+			</div>
+			
+			<br />
+
+			<div class="form-group">
+				<input type="submit" value="Create" class="btn btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>
+
+@if (ViewBag.error != null)
+{
+	<div class="alert-danger">
+		@ViewBag.error
+	</div>
+	<a asp-controller="Cabana" asp-action="Index">Volver</a>
+}
+@if (ViewBag.success != null)
+{
+	<div class="alert-success">
+		@ViewBag.success
+	</div>
+	<br />
+	<a asp-controller="Cabana" asp-action="Index">Volver</a>
+}
+
+<div>
+	<a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+    }
